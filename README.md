@@ -18,5 +18,6 @@ After the votes are counted(mail-in ballots, punch cards, and direct recording e
    Winning Vote Count: 272,892\
    Winning Percentage: 73.8%
  ### Election-Audit Summary:
+Using Python script that was written for this purpose, the election-audit was proven to be successful in processing large amount of data. Using Python programming language and with a small change in our script we can perform the same analysis not only for  other congressional districts, but also senatorial districts and local elections.
  
    
