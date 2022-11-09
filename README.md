@@ -1,7 +1,7 @@
 # Election_Analysis
 Election audit of the tabulated resaults for U.S. congressional precinct in Colorado using Python
 ## Election-Audit Results: 
-After the votes are counted(mail-in ballots, punch cards, and direct recording electronic, or DRE, counting machines), I will present a vote count report to certify  U.S. congressional race. Using Python  programming language to write algorithms, final report presents :
+After the votes are counted (mail-in ballots, punch cards, and direct recording electronic, or DRE, counting machines), I will present a vote count report to certify  U.S. congressional race. Using Python  programming language to write algorithms, final report presents :
 * Total votes cast for  U.S. congressional precinct in Colorado : 369,711. [Python](https://github.com/MilosPopov007/Election_Analysis/blob/main/Resources/Total_Votes.png)
 * Number of votes and the percentage of total votes for each county in the precinct:\
    Jefferson: 10.5% (38,855)\
